@@ -4,7 +4,7 @@ img {
 	content:url(images/kitten-large.png);
 }
 
-@media only screen and (min-width: 480px), (orientation: landscape) {
+@media only screen and (min-width: 300px)and (max-width: 480px), (orientation: landscape) {
     /* CSS ruleset */
 }
 
