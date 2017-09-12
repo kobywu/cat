@@ -38,5 +38,7 @@
 .kittyloaf {
 	visibility:visible;
 	content:url(kittyloaf.gif);
+	width:80vw;
+	height:60vh;
 }
 }
