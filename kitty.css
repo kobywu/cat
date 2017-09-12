@@ -1,7 +1,7 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
 
 
-@media only screen and (min-width: 700px) and (max-width:1400px) {
+@media only screen and (min-width: 700px){
    img {
 	content:url(kitten-large.png);
 }
