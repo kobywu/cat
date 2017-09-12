@@ -15,4 +15,7 @@
    img {
 	content:url(kitten-small.png);
 }
+.kittyloaf {
+	content:url(kittyloaf.gif);
+	}
 }
