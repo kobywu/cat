@@ -1,13 +1,18 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
 
-img {
+
+@media only screen and (min-width: 700px) and (max-width:1400px) {
+   img {
 	content:url(images/kitten-large.png);
 }
-
-@media only screen and (min-width: 300px)and (max-width: 480px), (orientation: landscape) {
-    /* CSS ruleset */
 }
-
-@media only screen and (min-width: 480px), (orientation: landscape) {
-    /* CSS ruleset */
+@media only screen and (min-width: 470px) and (max-width:699px) {
+   img {
+	content:url(images/kitten-medium.png);
+}
+}
+@media only screen and (min-width: 295px) and (max-width:469px) {
+   img {
+	content:url(images/kitten-small.png);
+}
 }
