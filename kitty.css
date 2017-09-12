@@ -3,16 +3,16 @@
 
 @media only screen and (min-width: 700px) and (max-width:1400px) {
    img {
-	content:url(images/kitten-large.png);
+	content:url(kitten-large.png);
 }
 }
 @media only screen and (min-width: 470px) and (max-width:699px) {
    img {
-	content:url(images/kitten-medium.png);
+	content:url(kitten-medium.png);
 }
 }
 @media only screen and (min-width: 295px) and (max-width:469px) {
    img {
-	content:url(images/kitten-small.png);
+	content:url(kitten-small.png);
 }
 }
