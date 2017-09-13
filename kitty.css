@@ -7,12 +7,12 @@
    img {
 	content:url(kitten-large.png);
 }
-.kittyloaf {
+   .kittyloaf {
 	visibility:hidden;
 }
 }
 @media only screen and (min-width: 470px) and (max-width:699px) {
-	body {
+  body {
 	   text-align:center;
 	   background-color:#9932CC;
    }
@@ -32,7 +32,7 @@
 	content:url(kitten-small.png);
 	
 }
-.kittyloaf {
+  .kittyloaf {
 	visibility:visible;
 	content:url(panda.jpg);
 }
