@@ -6,6 +6,7 @@
    }
    img {
 	content:url(kitten-large.png);
+	text-align:center;
 }
    .kittyloaf {
 	visibility:hidden;
@@ -18,6 +19,7 @@
    }
   img {
 	content:url(kitten-medium.png);
+	text-align:center;
 }
 .kittyloaf {
 	visibility:hidden;
@@ -30,7 +32,7 @@
    }
    img {
 	content:url(kitten-small.png);
-	
+	text-align:center;
 }
   .kittyloaf {
 	visibility:visible;
