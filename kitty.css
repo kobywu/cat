@@ -19,7 +19,7 @@
    }
   img {
 	content:url(kitten-medium.png);
-	width:80vw;
+	width:60vw;
 	height:50vh;
 }
 .kittyloaf {
@@ -32,13 +32,13 @@
    }
    img {
 	content:url(kitten-small.png);
-	width:80vw;
-	height:60wh;
+	width:60vw;
+	height:50wh;
 }
 .kittyloaf {
 	visibility:visible;
 	content:url(kittyloaf.gif);
-	width:80vw;
-	height:60vh;
+	width:60vw;
+	height:50vh;
 }
 }
