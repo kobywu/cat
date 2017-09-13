@@ -6,8 +6,8 @@
    }
    img {
 	content:url(kitten-large.png);
-	width:90vw;
-	height:60vh;
+	width:60vw;
+	height:50vh;
 }
 .kittyloaf {
 	visibility:hidden;
