@@ -33,7 +33,7 @@
    img {
 	content:url(kitten-small.png);
 	width:60vw;
-	height:50wh;
+	height:50vh;
 }
 .kittyloaf {
 	visibility:visible;
